@@ -8,6 +8,9 @@
     },
     {
       "path": "./apps/cook-recipe"
+    },
+    {
+      "path": "./packages/shared/ui"
     }
   ]
 }
